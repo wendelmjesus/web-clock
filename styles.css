@@ -1,0 +1,22 @@
+body {
+
+    display: flex;
+    background-color: #e6e6e6;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.clock {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
+
+.time {
+    font-size: 2rem;
+    text-align: center;
+}
